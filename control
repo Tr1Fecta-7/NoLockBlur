@@ -1,0 +1,9 @@
+Package: com.tr1fecta.nolockblur
+Name: NoLockBlur
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Removes the blur from the passcode view! 
+Maintainer: Tr1Fecta
+Author: Tr1Fecta
+Section: Tweaks
